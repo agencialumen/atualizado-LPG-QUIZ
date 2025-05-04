@@ -19,7 +19,7 @@ const giftOptions = [
   },
   {
     id: "premium",
-    title: "Kit Premium KIT DIGITAL 'FAMILIA IMUNE'",
+    title: "Kit Premium 'FAMILIA IMUNE'",
     description: "Método completo + Proteja toda sua família",
     points: 60,
     image: "https://iili.io/3NFaXxn.md.png",
