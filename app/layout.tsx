@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Quiz da Saúde do Seu Filho",
   description: "Descubra o que pode estar prejudicando a saúde do seu filho e como resolver",
-    generator: 'v0.dev'
+    generator: 'guilhermedev'
 }
 
 export default function RootLayout({ children }) {
