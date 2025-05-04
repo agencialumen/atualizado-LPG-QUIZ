@@ -14,7 +14,7 @@ const giftOptions = [
     title: "Guia Básico",
     description: "Acesso ao método natural básico para fortalecer a imunidade do seu filho",
     points: 30,
-    image: "/placeholder.svg?height=100&width=100",
+    image: "https://iili.io/3NFonWB.md.png",
     features: ["Guia digital", "3 receitas naturais", "Checklist diário"],
   },
   {
